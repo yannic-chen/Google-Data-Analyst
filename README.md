@@ -27,7 +27,8 @@ The short term goal of the company is to maximize profit by converting casual ri
 
 ## Scope of analysis
 
-**Data:** 12 Month of [Cyclistic trip Data](https://divvy-tripdata.s3.amazonaws.com/index.html)
+**Data:** 12 Month of [Cyclistic trip Data](https://divvy-tripdata.s3.amazonaws.com/index.html) provided by Motivate International Inc..
+
 
 ### ROCCC
 
