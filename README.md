@@ -2,6 +2,9 @@
 
 This Repository contains my Capstone Project from the 2020 Google Data Analytics Course. This project can also be found under [my Kaggle profile](https://www.kaggle.com/yannicchen/google-capstone-project).
 
+* The Powerpoint presentation contains all relevant results and points.
+* The process from data processing and data analzysis can be recreated from the "BicycleScript.R".
+
 # How Does a Bike-Share Navigate Speedy Success?
 #### A Case Study on Bike usage by subscribed and non-subscribed members
 
